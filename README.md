@@ -22,7 +22,7 @@ Improvements:
 
 • Add jumps and tricks to the possible movements. This may be difficult with the limited range of inputs of the google cardboard, but I believe that there is a nice minimalistic approach to it. All those buttons from other snowboarding games are just distracting.
 
-• Improve the feel of the game. For this I would have to use Maya or other similar software, which I am not trainded in. 
+• Improve the feel of the game. For this I would have to use Maya or other similar software, which I am not trained in. 
 
 
 If anyone is interested in finishing this up with me, hit me up. :D
