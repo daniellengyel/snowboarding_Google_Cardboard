@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{67E53287-DE41-36A5-5757-B4EA2BFEAD35}") = "Snowboarding_Cardboard", "Assembly-CSharp.csproj", "{4DEBB735-0EAE-8B78-2C60-2459298DD68D}"
+EndProject
+Project("{67E53287-DE41-36A5-5757-B4EA2BFEAD35}") = "Snowboarding_Cardboard", "Assembly-CSharp-Editor.csproj", "{CFFEB2EB-0B05-F429-C16E-DF65598BD7F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DEBB735-0EAE-8B78-2C60-2459298DD68D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DEBB735-0EAE-8B78-2C60-2459298DD68D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DEBB735-0EAE-8B78-2C60-2459298DD68D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DEBB735-0EAE-8B78-2C60-2459298DD68D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFFEB2EB-0B05-F429-C16E-DF65598BD7F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFFEB2EB-0B05-F429-C16E-DF65598BD7F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFFEB2EB-0B05-F429-C16E-DF65598BD7F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFFEB2EB-0B05-F429-C16E-DF65598BD7F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
